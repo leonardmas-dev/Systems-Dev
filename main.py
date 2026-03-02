@@ -3,6 +3,6 @@ import tkinter as tk
 
 root = tk.Tk()
 # Widgets are added here
-label = tk.Label(root, text="Hello world")
+label = tk.Label(root, text="Hi")
 label.pack()
 root.mainloop()
